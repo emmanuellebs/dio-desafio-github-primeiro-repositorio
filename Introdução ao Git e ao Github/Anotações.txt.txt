@@ -1,0 +1,14 @@
+Windows Comando básicos.
+
+-cd (mudar de diretório)
+-cd.. (sair do diretório) 
+-dir (listar arquivos)
+-mkdir (Criar pasta)
+-del (deletar)
+-cls (limpar terminal)
+-echo (cria arquivo)
+-rmdir "nome do arquivo" /s /q (deleta diretório/repositório)
+
+Links Úteis
+
+Sintaxe Básica Markdown - https://www.markdownguide.org/basic-syntax

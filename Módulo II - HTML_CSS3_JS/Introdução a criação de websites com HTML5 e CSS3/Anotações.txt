@@ -1,0 +1,32 @@
+HTML5
+
+<h1></h1> Só pode um por página.
+
+Textos e Links
+
+<p></p> Tag para textos
+
+<a></a> Tag para Links
+ 	<a>Link</a>
+	<a href="linkedin.com/in/emmanuellebs">LinkedIn</a>
+	<a href="mailto:emmanuellebs@live.com">E-mail</a>
+	
+	<a target="_blank">Link</a> (Como o link vai ser aberto. Nesse caso, fala para abrir em uma nova aba)
+
+Imagens
+
+<img>
+<img src="img/avatar.jpg">
+<img alt="Foto de Manu">
+
+Listas
+
+<ul> Representa uma lista onde as ordens dos itens não é importante
+
+<ol> A ordem dos itens é importante e é representado por letras, números e algarismos romanos.
+
+<li> item dessa lista.
+
+
+
+ 

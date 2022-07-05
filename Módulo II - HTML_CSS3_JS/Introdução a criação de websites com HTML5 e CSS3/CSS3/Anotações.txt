@@ -1,0 +1,26 @@
+CSS3
+
+Formado por:
+-Seletores Ex.: a, p, h1, h3 
+-Declarações Ex.: Color: blue;
+		  font-size: 14px;
+
+ID x Classe
+
+HTML5
+<header id="header" class="header"></header>
+
+<header class="header"></header>
+
+No CSS3, uma classe inicia com um "." 
+Ex.: 
+	.header {
+	  padding: 10px;
+	}
+
+E um ID inicia com um "#" e só pode ser usado uma vez na página.
+Ex.:
+
+	#header {
+	  padding: 15px;
+	}							

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - Flex Wrap</title>
+    <style>
+        .subtitle{
+            color: black;
+            text-align: justify;
+            font-style: italic;        
+        }
+
+        .flex-container{
+            display: flex;
+            height: 150px;
+            
+        }
+
+        .item{
+            font-size: 24px;
+            height: 50%;
+            text-align: center;
+            width: 100px;
+            list-style: none;
+            line-height: 65px;
+        }
+
+        .nowrap{
+            flex-wrap: nowrap;
+        }
+
+        .blue{
+            background-color: blue;
+        }
+
+        .orange{
+            background-color: orange;
+        }
+
+        .red{
+            background-color: red;
+        }
+    
+    
+    </style>
+
+
+
+</head>
+<body>
+    <header><h1 class="subtitle">No Wrap</h1></header>
+
+    <ul class="flex-container nowrap">
+        <li class="item blue">Blue</li>
+        <li class="item orange">Orange</li>
+        <li class="item red">Red</li>
+    </ul>
+</body>
+</html>
